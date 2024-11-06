@@ -1,0 +1,13 @@
+.neoshadow {
+    background: #ffffff;
+    box-shadow:  21px 21px 42px #c7c7c7,
+                 -21px -21px 42px #ffffff;
+}
+
+.imgbg {
+    background-image: url('../../assets/img/background.webp');
+}
+
+.mask {
+    background-color: rgba(0, 130, 199, .3);
+}
